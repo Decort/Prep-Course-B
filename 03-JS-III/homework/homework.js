@@ -8,6 +8,11 @@ function imprimirSumaNumeros() {
     // Imprime la suma de los números del 1 al 10
     // Pista: usa un acumulador
     // Tu código:
+    var counter = 0;
+    for (let counter = 0; counter <= 10; counter++){
+      return counter += counter
+    }
+   
 }
 
 function encuentraPares(array){
